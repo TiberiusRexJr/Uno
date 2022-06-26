@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Uno.MainPage">
     <Grid RowDefinitions="100,Auto,*" ColumnDefinitions=".75*,.25*">
-        <Image Grid.ColumnSpan="2" Source="Gorilla.jpg" BackgroundColor="Orange"/>
+        <Image Grid.ColumnSpan="2" Source="dotnet_bot.svg" BackgroundColor="Orange"/>
         <Entry Placeholder="Enter Task" Grid.Row="1"/>
         <Button Text="Add" Grid.Row="1" Grid.Column="1"></Button>
 
